@@ -172,8 +172,8 @@ const bird = {
 
   frame: 0,
 
-  gravity: 0.2,
-  jump: 3.5,
+  gravity: 0.1,
+  jump: 2,
   speed: 0,
   rotation: 0,
 
@@ -382,7 +382,7 @@ const pipes = {
       }
 
       // MOVE THE PIPES TO THE LEFT
-      p.x -= this.dx * 1.2;
+      p.x -= this.dx * 0.7;
 
       // if the pipes go beyond canvas, we delete them from the array
       if (p.x + this.w <= 0) {
