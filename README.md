@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width=550px src="https://www.bramjryno.com/wp-content/uploads/2017/10/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D9%81%D9%84%D8%A7%D8%A8%D9%8A-%D8%A8%D9%8A%D8%B1%D8%AF-2018-flappy-bird.jpg">
+<img width=450px src="https://user-images.githubusercontent.com/71986226/189888993-ffc4335b-62c0-46b2-b12a-fdbc09863be4.gif">
 <div align="center"  width=10%>
 
 ### "Have a Good time 🐣"
