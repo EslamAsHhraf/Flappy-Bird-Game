@@ -5,7 +5,7 @@
 <img width=475px src="https://user-images.githubusercontent.com/71986226/189888993-ffc4335b-62c0-46b2-b12a-fdbc09863be4.gif">
 <div align="center"  width=10%>
 
-### "Have a Good time 🐣"
+### "Enjoy🐣"
 
 </div>
 </div>
