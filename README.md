@@ -1,4 +1,4 @@
-# <img  align="center" width= 70px  src="https://c.tenor.com/WuaZ4G33BBoAAAAC/flappy-bird-flying.gif"> Flappy Bird
+# <img  align="center" width= 60px  src="https://art.pixilart.com/717a0fa79a0c1e5.gif"> Flappy Bird
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=45px height=45px src="https://media2.giphy.com/media/5zHLSjOWa0R1LjU9yJ/giphy.gif?cid=ecf05e47watlwe3frmqt9614o7h3axtsxf010aet7zwbdf3a&rid=giphy.gif&ct=s"> Table of Contents
+## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Video"> 🎥 Demo</a>
@@ -21,7 +21,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =65px src="https://media0.giphy.com/media/odHSS6bd8k4uoVdXqn/giphy.gif?cid=ecf05e47elvbfnjpyidk1f8ofwcyd1da56kyser2q7zywm6r&rid=giphy.gif&ct=s"> Overview
+## <img align="center"   width =60px  height =70px src="https://media2.giphy.com/media/Yn4nioYWSZMqiPNVuD/giphy.gif?cid=ecf05e47m5h78yoqhdkg8pq54o5qsxhdoltjxyfe08d4vxvg&rid=giphy.gif&ct=s"> Overview
 
 <ul>
  <li>
