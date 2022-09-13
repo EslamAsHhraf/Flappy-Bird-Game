@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height=425px src="https://media1.giphy.com/media/aSZSj0mT8f6tW/giphy.gif?cid=ecf05e47h1ah4mrjxg2rwi3a93595da0vbl6mk41uqy1lxnn&rid=giphy.gif&ct=g">
+<img height=450px src="https://user-images.githubusercontent.com/71986226/189879856-625dd609-ad40-4e50-9c34-c47d562bfc6c.gif">
 <div align="center"  width=10%>
 
 ### "Have a Good time 🐣"
@@ -35,7 +35,7 @@ Flappy Bird was a side-scrolling mobile game featuring 2D retro style graphics. 
 
 ## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
 
-- **Let's Go visit** <a href="https://eslamashhraf.github.io/Flappy-Bird-Game/">Flappy Bird Game</a>
+- **Let's Go visit** <a href="https://eslamashhraf.github.io/Flappy-Bird-Game/">**Flappy Bird Game**</a>
 
 <br>
 
