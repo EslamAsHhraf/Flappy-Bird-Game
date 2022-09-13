@@ -49,6 +49,8 @@ Flappy Bird was a side-scrolling mobile game featuring 2D retro style graphics. 
 </video> 
 </div>
 
+> **Note** Play the sound
+
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
