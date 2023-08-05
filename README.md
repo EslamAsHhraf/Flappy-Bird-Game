@@ -15,9 +15,9 @@
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#Video"> 🎥 Demo</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a>
+- <a href ="#video"> 🎥 Demo</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
